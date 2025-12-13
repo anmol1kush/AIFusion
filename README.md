@@ -84,7 +84,7 @@ Below are the major application flows and UI screens:
 ![Purchase Credits](Screenshots/credit.png)
 
 ### 5️⃣ Razorpay Payment Flow
-![Razorpay Checkout](Screenshots/razarpay.png)
+![Razorpay Checkout](Screenshots/razerpay.png)
 ![Razorpay Checkout](Screenshots/razorpay.png)
 
 ---
