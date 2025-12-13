@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import logo_full from "./logo_full.svg";
+import logo_full from "./logo_black.svg";
 import logo_full_dark from "./logo_full_dark.svg";
 import search_icon from "./search_icon.svg";
 import user_icon from "./user_icon.svg";
