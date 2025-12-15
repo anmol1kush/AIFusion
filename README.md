@@ -77,7 +77,7 @@ Below are the major application flows and UI screens:
 - Text generation
 - Image generation
 ![Dashboard](Screenshots/main1.png)
-![Dashboard](Screenshots/main2.png)
+
 
 
 ### 4️⃣ Purchase Credits Page
