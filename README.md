@@ -136,7 +136,7 @@ RAZORPAY_KEY_SECRET=your_razorpay_secret
 ## 👨‍💻 Author
 
 **Anmol Kushwaha**  
-Full‑Stack MERN Developer | AI SaaS Enthusiast
+Full‑Stack Developer | AI SaaS Enthusiast
 
 ---
 
